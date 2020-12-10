@@ -1,2 +1,1 @@
-# Tutorial
- Following Techdegree Instructions
+# Techdegree Tutorial
